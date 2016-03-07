@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fr",
+				"forms"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Vi",
+				"VideoForm"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"upl",
+				"upload_location"
+			],
+			[
+				"pr",
+				"pre_save_video_receiver"
+			],
+			[
+				"n",
+				"new_slug"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"slu",
+				"slugify"
+			],
+			[
+				"vi",
+				"video_play"
+			],
+			[
+				"li",
+				"video_list"
+			],
+			[
+				"v",
+				"views"
+			],
+			[
+				"V",
+				"Video"
+			],
+			[
+				"Vide",
+				"video"
+			],
+			[
+				"Vid",
+				"VideoForm"
+			],
+			[
+				"whoo",
+				"whoosh_backend"
+			],
+			[
+				"from",
+				"fromemail"
+			],
+			[
+				"fo",
+				"form_contact"
+			],
+			[
+				"f",
+				"form_message"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"c",
+				"cleaned_data"
+			],
+			[
+				"cla",
+				"cleaned_data"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"S",
+				"SignUpForm"
+			],
+			[
+				"s",
+				"Signup"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"Q",
+				"QuestionAdmin"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"SI",
+				"SignUp"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Tue",
+				"True"
+			],
+			[
+				"a",
+				"about"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"dja",
+				"django"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"ful",
+				"full_name"
+			],
+			[
+				"E",
+				"EMAIL_HOST"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"F",
+				"full_name"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"Us",
+				"USC"
+			],
+			[
+				"Si",
+				"SignUpForm"
+			],
+			[
+				"em",
+				"email"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Doc/Time Pass/Django/MovieStore/ms.sublime-project",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/videolist.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/footer.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/base.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/home.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/navbar.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/videobasic.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/video_form.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/contact.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/video/views.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/message_display.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/video/admin.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/video/forms.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/video/urls.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/video/models.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/moviestr/urls.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/allauth/account/signup.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/aboutus.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/market.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/newsletter/forms.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/newsletter/views.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/moviestr/views.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/feat.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/carousel.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/moviestr/settings.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/base_js.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/newsletter/models.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/newsletter/admin.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/search/search.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/search/videobasic.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/haystack/views.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/haystack/forms.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/newsletter/search_indexes.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/video/search_indexes.py",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/search/indexes/video/video_text.txt",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/search/indexes/newsletter/SignUp_text.txt",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/signup.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/base_css.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/allauth/account/login.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/allauth/account/base.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/allauth/account/email.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/home2.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/templates/as",
+		"/E/Doc/Time Pass/Django/MovieStore/src/allauth/socialaccount/connections.html",
+		"/E/Doc/Time Pass/Django/MovieStore/src/static_in_pro/our_static/img/example.txt",
+		"/E/Doc/Time Pass/Django/MovieStore/src/newsletter/templates/home.html",
+		"/E/Doc/Time Pass/Django/p2/src/trial/urls.py",
+		"/E/Doc/Time Pass/Django/p2/src/newsletter/views.py",
+		"/E/Doc/Time Pass/Django/p2/src/newsletter/templates/newsletter/home.html",
+		"/E/Doc/Time Pass/Django/p2/src/templates/home.html",
+		"/E/Doc/Time Pass/Django/p2/src/polls/views.py",
+		"/E/Doc/Time Pass/Django/p2/src/polls/templates/polls/results.html",
+		"/E/Doc/Time Pass/Django/p2/src/polls/templates/polls/index.html",
+		"/E/Doc/Time Pass/Django/p2/src/polls/templates/polls/detail.html",
+		"/E/Doc/Time Pass/Django/p2/src/trial/settings.py",
+		"/E/Doc/Time Pass/Django/p2/src/polls/static/polls/style.css",
+		"/E/Doc/Time Pass/Django/p2/src/polls/urls.py",
+		"/E/Doc/Time Pass/Django/p2/src/polls/templates/polls/urls.py",
+		"/E/Doc/Time Pass/Django/p2/src/polls/admin.py",
+		"/E/Doc/Time Pass/Django/p2/src/polls/models.py",
+		"/C/Users/user/Desktop/Django/P2/src/newsletter/views.py",
+		"/C/Users/user/Desktop/Django/P2/src/templates/home.html",
+		"/C/Users/user/Desktop/Django/P2/src/mm/settings.py",
+		"/C/Users/user/Desktop/Django/P2/src/mm/urls.py",
+		"/C/Users/user/Desktop/Django/P2/src/newsletter/templates/home.html",
+		"/C/Users/user/Desktop/Django/ce/src/dj/settings/production.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/settings/__init__.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/settings/local.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/settings/base.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/old_settings.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/wsgi.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/settings/_int_.py",
+		"/C/Users/user/Desktop/Django/ce/src/dj/urls.py",
+		"/C/Users/user/Desktop/Django/ce/src/templates/home.html",
+		"/C/Users/user/Desktop/Django/ce/src/newsletter/views.py",
+		"/C/Users/user/Desktop/Django/ce/src/templates/about.html",
+		"/C/Users/user/Desktop/Django/ce/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/C/Users/user/Desktop/Django/ce/static_in_env/static_root/css/navbar-static-top.css",
+		"/C/Users/user/Desktop/Django/ce/dj/static_in_pro/our_static/css/navbar-static-top.css",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/head_css.html",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/base.html",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/home.html",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/navbar.html",
+		"/C/Users/user/Desktop/Django/ce/dj/dj/urls.py",
+		"/C/Users/user/Desktop/Django/ce/dj/dj/views.py",
+		"/C/Users/user/Desktop/Django/ce/dj/newsletter/views.py",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/forms.html",
+		"/C/Users/user/Desktop/Django/ce/dj/dj/settings.py",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/views.py",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/javascript.html",
+		"/C/Users/user/Desktop/Django/ce/dj/static_in_pro/our_static/css/custom.css",
+		"/C/Users/user/Desktop/Django/ce/dj/templates/example_fluid.html",
+		"/C/Users/user/Desktop/Django/ce/dj/static_in_pro/our_static/img/example.txt",
+		"/C/Users/user/Desktop/Django/ce/dj/newsletter/admin.py",
+		"/C/Users/user/Desktop/Django/ce/dj/newsletter/forms.py",
+		"/C/Users/user/Desktop/Django/ce/dj/newsletter/models.py",
+		"/C/Users/user/Desktop/Django/ce/dj/newsletter/templates/home.html",
+		"/C/Users/user/Desktop/Django/ce/dj/newletter/views.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\user\\Desktop\\Django\\ce\\dj\\templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"Indexable",
+			"\"\"\"\nDjango settings for moviestr project.\n\nGenerated by 'django-admin startproject' using Django 1.8.\n\nFor more information on this file, see\nhttps://docs.djangoproject.com/en/1.8/topics/settings/\n\nFor the full list of settings and their values, see\nhttps://docs.djangoproject.com/en/1.8/ref/settings/\n\"\"\"\n\n# Build paths inside the project like this: os.path.join(BASE_DIR, ...)\nimport os\n\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n\n\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/\n\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'posx5z562)nbe$1z)u)j15a0x3x&9k5cvtw-eu6oju4ifhpf#e'\n\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\n\nALLOWED_HOSTS = []\n\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'apoorvcr@gmail.com'\nEMAIL_HOST_PASSWORD = 'pqhdpxdmqopnaphf'\nEMAIL_PORT = 587\n\n# Application definition\n\nINSTALLED_APPS = (\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.sites',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    #3rd party app\n    'crispy_forms',\n    'allauth',\n    'allauth.account',\n    'allauth.socialaccount',\n    'bootstrap3',\n    'haystack',\n    'whoosh',\n    # 'allauth.socialaccount.providers.facebook',\n    'allauth.socialaccount.providers.google',\n    #my app\n    'newsletter',\n)\n\nMIDDLEWARE_CLASSES = (\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.auth.middleware.SessionAuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n)\n\nROOT_URLCONF = 'moviestr.urls'\n\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, \"templates\")],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',\n                # `allauth` needs this from django\n                'django.template.context_processors.request',\n            ],\n        },\n    },\n]\n\nWSGI_APPLICATION = 'moviestr.wsgi.application'\n\n\n# Database\n# https://docs.djangoproject.com/en/1.8/ref/settings/#databases\n\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n\n\n# Internationalization\n# https://docs.djangoproject.com/en/1.8/topics/i18n/\n\nLANGUAGE_CODE = 'en-us'\n\nTIME_ZONE = 'UTC'\n\nUSE_I18N = True\n\nUSE_L10N = True\n\nUSE_TZ = True\n\n\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/1.8/howto/static-files/\n\nSTATIC_URL = '/static/'\n\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), \"static_in_env\", \"static_root\")\n\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"static_in_pro\", \"our_static\"),\n    ]\n\nMEDIA_URL = '/media/'\n\nMEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), \"static_in_env\", \"media_root\")\n\n#crispy forms\nCRISPY_TEMPLATE_PACK = 'bootstrap3'\nCRISPY_FAIL_SILENTLY = not DEBUG\n\n\n#all-auth \n\nAUTHENTICATION_BACKENDS = (\n    # Needed to login by username in Django admin, regardless of `allauth`\n    'django.contrib.auth.backends.ModelBackend',\n\n    # `allauth` specific authentication methods, such as login by e-mail\n    'allauth.account.auth_backends.AuthenticationBackend',   \n)\n\nSITE_ID = 1\n\nLOGIN_REDIRECT_URL = '/'\nSOCIALACCOUNT_QUERY_EMAIL = True\n\nSOCIALACCOUNT_PROVIDERS = \\\n    { 'google':\n        { 'SCOPE': ['profile', 'email'],\n          'AUTH_PARAMS': { 'access_type': 'online' } }}\n\n#haystack settings\nHAYSTACK_CONNECTIONS = {\n    'default': {\n        'ENGINE': 'haystack.backends.whoosh_backend.WhooshEngine',\n        'PATH': os.path.join(os.path.dirname(__file__), 'whoosh_index'),\n    },\n}\n\n\n\n\n",
+			"mp4",
+			"{% ",
+			"base.html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ms.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Doc\\Time Pass\\Django\\MovieStore\\ms.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
