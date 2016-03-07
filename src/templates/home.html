@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+{% load staticfiles %}
+	{% block carousel %}
+
+		 {% include "carousel.html" %}
+
+	{% endblock %}
+      
+	{% block markfeat %}
+     
+      {% include "market.html" %}
+
+
+      {% include "feat.html" %}
+
+	{% endblock %}
+
+ {% block content %}
+ {% comment %}.
+<div class="container">
+<h1>Movies Store</h1>
+<h2>{{ title }}</h2>
+<form method='POST' action=''>{% csrf_token %}
+
+<div class="row"><div class="col-md-3">
+{{ form|crispy }}
+</div>
+</div>
+<input class="btn btn-lg btn-primary" type="submit" value="Sign Up"/>
+
+</form>
+</div>
+{% endcomment %}
+{{ block.super }}
+{% endblock %}

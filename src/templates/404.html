@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+
+{% block content %}
+
+<div class="container">
+<h1><center>Oops...!</center></h1>
+<hr>
+<div class="row">
+<center><h4>Error 404</h4>
+<img src="{% static 'img\404.png' %}" width="838" height="493">
+<p>Go yo home by cliking <a href="{% url 'home' %}">here</a>.....!!!</p></center> 
+</div>
+</div>
+
+
+
+{% endblock %}

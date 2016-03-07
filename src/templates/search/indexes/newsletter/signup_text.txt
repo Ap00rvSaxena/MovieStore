@@ -1,0 +1,3 @@
+{{ object.email }}
+{{ object.first_name }}
+{{ object.timestamp }}

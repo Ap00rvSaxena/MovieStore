@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+{% load staticfiles %}
+{% block content %}
+<div class="container">
+<h1><center>About !</center></h1>
+<hr><br><br><br>
+<div class="row">
+<div class="col-sm-6 col-sm-offset-3">
+<center><img class="img-circle" src="{% static 'img\me.jpg' %}" alt="Generic placeholder image" width="140" height="140">
+<h4>Apoorv Saxena</h4>
+<p><h4>Movie Str!</h4><h5>is a static website fully developed by me.It has been developed on Django Web Framework.Websites includes multiple functionalities like Login System,Searching videos,Login through a social website like google or facebook,Newsletter,Online Streaming of videos.
+Dyanmic URL amd many others things.</h5></p> </center>    
+</div>
+</div>
+</div>
+
+
+
+{% endblock %}
