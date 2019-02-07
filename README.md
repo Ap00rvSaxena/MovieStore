@@ -12,4 +12,3 @@ Apps like django-allauth for authentication and haystack for searching purpose.
 * django-allauth
 * Haystack
 * Whoosh
-* Sublime
